@@ -1,0 +1,84 @@
+2021-04-14 20:39:04.857 -03:00 [INF] /////////// Ejecutando el script de BD ///////////
+2021-04-14 20:39:05.921 -03:00 [INF] Script ejecutado correctamente en la BD ! 
+2021-04-14 20:39:05.997 -03:00 [INF] Comenzando descarga...
+2021-04-14 20:39:50.274 -03:00 [INF] Mb descargados 4.00
+
+2021-04-14 20:39:52.553 -03:00 [INF] Mb descargados 8.00
+
+2021-04-14 20:39:52.556 -03:00 [INF] Mb descargados 12.00
+
+2021-04-14 20:39:59.925 -03:00 [ERR] 
+La transferencia fue cancelada: Oh no ! Se ha producido un error de time out intencional !!!
+2021-04-14 20:40:00.110 -03:00 [INF] Mb descargados 12.00
+
+2021-04-14 20:40:02.997 -03:00 [INF] Mb descargados 12.00
+
+2021-04-14 20:40:48.878 -03:00 [INF] Mb descargados 16.00
+
+2021-04-14 20:40:48.881 -03:00 [INF] Mb descargados 20.00
+
+2021-04-14 20:40:48.883 -03:00 [INF] Mb descargados 24.00
+
+2021-04-14 20:40:51.304 -03:00 [INF] Mb descargados 28.00
+
+2021-04-14 20:40:52.150 -03:00 [INF] Mb descargados 32.00
+
+2021-04-14 20:41:14.475 -03:00 [ERR] 
+La transferencia fue cancelada : Oh no ! Se ha producido un error de time out intencional !!!
+2021-04-14 20:41:14.540 -03:00 [INF] Mb descargados 32.00
+
+2021-04-14 20:41:17.487 -03:00 [INF] Mb descargados 32.00
+
+2021-04-14 20:42:04.901 -03:00 [INF] Mb descargados 36.00
+
+2021-04-14 20:42:04.905 -03:00 [INF] Mb descargados 40.00
+
+2021-04-14 20:42:05.735 -03:00 [INF] Mb descargados 44.00
+
+2021-04-14 20:42:05.741 -03:00 [INF] Mb descargados 48.00
+
+2021-04-14 20:42:05.744 -03:00 [INF] Mb descargados 52.00
+
+2021-04-14 20:42:47.213 -03:00 [INF] Mb descargados 56.00
+
+2021-04-14 20:42:48.370 -03:00 [INF] Mb descargados 60.00
+
+2021-04-14 20:42:48.372 -03:00 [INF] Mb descargados 64.00
+
+2021-04-14 20:42:51.312 -03:00 [INF] Mb descargados 68.00
+
+2021-04-14 20:42:53.007 -03:00 [INF] Mb descargados 72.00
+
+2021-04-14 20:43:34.358 -03:00 [INF] Mb descargados 76.00
+
+2021-04-14 20:43:35.688 -03:00 [INF] Mb descargados 80.00
+
+2021-04-14 20:43:36.520 -03:00 [INF] Mb descargados 84.00
+
+2021-04-14 20:43:38.590 -03:00 [INF] Mb descargados 88.00
+
+2021-04-14 20:43:39.506 -03:00 [INF] Mb descargados 92.00
+
+2021-04-14 20:44:20.704 -03:00 [INF] Mb descargados 96.00
+
+2021-04-14 20:44:22.278 -03:00 [INF] Mb descargados 100.00
+
+2021-04-14 20:44:24.099 -03:00 [INF] Mb descargados 104.00
+
+2021-04-14 20:44:25.140 -03:00 [INF] Mb descargados 108.00
+
+2021-04-14 20:44:25.142 -03:00 [INF] Mb descargados 110.00
+
+2021-04-14 20:44:25.145 -03:00 [INF] Mb descargados 110.00
+
+2021-04-14 20:44:25.147 -03:00 [INF] 
+ *******Operacion de transferencia completada con exito 319.147141 segundos ******
+2021-04-14 20:44:28.157 -03:00 [INF] El largo del archivo es: 110 mb
+2021-04-14 20:44:28.161 -03:00 [INF] El tiempo en seg tomado es: : 322 segundos
+2021-04-14 20:44:28.163 -03:00 [INF] El tiempo en min tomado es: : 5 minutos
+2021-04-14 20:44:28.171 -03:00 [INF] Comenzando a copiar el archivo a memoria
+2021-04-14 20:44:40.912 -03:00 [INF] El tiempo tomado en importar el CSV en memoria es:  0 minutos
+2021-04-14 20:44:40.915 -03:00 [INF] Comenzando a copiar el archivo a la BD
+2021-04-14 20:48:07.984 -03:00 [INF] Fin de copiado del archivo a la BD!
+2021-04-14 20:48:07.987 -03:00 [INF] El tiempo tomado en importar el CSV en seg es:  207 segundos
+2021-04-14 20:48:07.988 -03:00 [INF] El tiempo tomado en importar el CSV en min es:  3 minutos

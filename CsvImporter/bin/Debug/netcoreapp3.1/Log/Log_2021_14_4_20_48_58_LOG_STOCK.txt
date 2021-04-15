@@ -1,0 +1,342 @@
+2021-04-14 20:48:58.453 -03:00 [INF] /////////// Ejecutando el script de BD ///////////
+2021-04-14 20:48:59.116 -03:00 [INF] Script ejecutado correctamente en la BD ! 
+2021-04-14 20:48:59.186 -03:00 [INF] Comenzando descarga...
+2021-04-14 20:50:06.806 -03:00 [INF] Mb descargados 4.00
+
+2021-04-14 20:50:07.475 -03:00 [INF] Mb descargados 8.00
+
+2021-04-14 20:50:11.145 -03:00 [INF] Mb descargados 12.00
+
+2021-04-14 20:50:11.147 -03:00 [INF] Mb descargados 16.00
+
+2021-04-14 20:50:47.755 -03:00 [INF] Mb descargados 20.00
+
+2021-04-14 20:51:05.711 -03:00 [INF] Mb descargados 24.00
+
+2021-04-14 20:51:11.022 -03:00 [INF] Mb descargados 28.00
+
+2021-04-14 20:51:12.126 -03:00 [INF] Mb descargados 32.00
+
+2021-04-14 20:51:13.480 -03:00 [INF] Mb descargados 36.00
+
+2021-04-14 20:52:28.324 -03:00 [INF] Mb descargados 40.00
+
+2021-04-14 20:52:28.326 -03:00 [INF] Mb descargados 44.00
+
+2021-04-14 20:52:28.328 -03:00 [INF] Mb descargados 48.00
+
+2021-04-14 20:52:28.331 -03:00 [INF] Mb descargados 52.00
+
+2021-04-14 20:52:28.334 -03:00 [INF] Mb descargados 56.00
+
+2021-04-14 20:53:15.966 -03:00 [INF] Mb descargados 60.00
+
+2021-04-14 20:53:22.128 -03:00 [INF] Mb descargados 64.00
+
+2021-04-14 20:53:22.130 -03:00 [INF] Mb descargados 68.00
+
+2021-04-14 20:53:22.136 -03:00 [INF] Mb descargados 72.00
+
+2021-04-14 20:54:07.847 -03:00 [INF] Mb descargados 76.00
+
+2021-04-14 20:54:20.078 -03:00 [INF] Mb descargados 80.00
+
+2021-04-14 20:54:20.081 -03:00 [INF] Mb descargados 84.00
+
+2021-04-14 20:54:21.364 -03:00 [INF] Mb descargados 88.00
+
+2021-04-14 20:54:23.018 -03:00 [INF] Mb descargados 92.00
+
+2021-04-14 20:55:37.991 -03:00 [INF] Mb descargados 96.00
+
+2021-04-14 20:55:37.993 -03:00 [INF] Mb descargados 100.00
+
+2021-04-14 20:55:37.996 -03:00 [INF] Mb descargados 104.00
+
+2021-04-14 20:55:38.001 -03:00 [INF] Mb descargados 112.00
+
+2021-04-14 20:55:37.999 -03:00 [INF] Mb descargados 108.00
+
+2021-04-14 20:56:20.386 -03:00 [INF] Mb descargados 116.00
+
+2021-04-14 20:56:20.995 -03:00 [INF] Mb descargados 120.00
+
+2021-04-14 20:56:26.281 -03:00 [INF] Mb descargados 124.00
+
+2021-04-14 20:56:26.283 -03:00 [INF] Mb descargados 128.00
+
+2021-04-14 20:57:14.624 -03:00 [INF] Mb descargados 132.00
+
+2021-04-14 20:57:22.077 -03:00 [INF] Mb descargados 136.00
+
+2021-04-14 20:57:22.079 -03:00 [INF] Mb descargados 140.00
+
+2021-04-14 20:57:25.540 -03:00 [INF] Mb descargados 144.00
+
+2021-04-14 20:57:29.927 -03:00 [INF] Mb descargados 148.00
+
+2021-04-14 20:58:44.082 -03:00 [INF] Mb descargados 152.00
+
+2021-04-14 20:58:44.085 -03:00 [INF] Mb descargados 156.00
+
+2021-04-14 20:58:44.088 -03:00 [INF] Mb descargados 160.00
+
+2021-04-14 20:58:44.090 -03:00 [INF] Mb descargados 164.00
+
+2021-04-14 20:58:44.092 -03:00 [INF] Mb descargados 168.00
+
+2021-04-14 20:59:22.925 -03:00 [INF] Mb descargados 172.00
+
+2021-04-14 20:59:22.928 -03:00 [INF] Mb descargados 176.00
+
+2021-04-14 20:59:26.551 -03:00 [INF] Mb descargados 180.00
+
+2021-04-14 20:59:31.937 -03:00 [INF] Mb descargados 184.00
+
+2021-04-14 21:00:10.959 -03:00 [INF] Mb descargados 188.00
+
+2021-04-14 21:00:21.686 -03:00 [INF] Mb descargados 192.00
+
+2021-04-14 21:00:22.195 -03:00 [INF] Mb descargados 196.00
+
+2021-04-14 21:00:26.353 -03:00 [INF] Mb descargados 200.00
+
+2021-04-14 21:00:31.785 -03:00 [INF] Mb descargados 204.00
+
+2021-04-14 21:01:44.030 -03:00 [INF] Mb descargados 208.00
+
+2021-04-14 21:01:44.033 -03:00 [INF] Mb descargados 212.00
+
+2021-04-14 21:01:44.037 -03:00 [INF] Mb descargados 220.00
+
+2021-04-14 21:01:44.035 -03:00 [INF] Mb descargados 216.00
+
+2021-04-14 21:01:44.039 -03:00 [INF] Mb descargados 224.00
+
+2021-04-14 21:02:16.930 -03:00 [INF] Mb descargados 228.00
+
+2021-04-14 21:02:18.492 -03:00 [INF] Mb descargados 232.00
+
+2021-04-14 21:02:25.858 -03:00 [INF] Mb descargados 236.00
+
+2021-04-14 21:02:32.163 -03:00 [INF] Mb descargados 240.00
+
+2021-04-14 21:03:17.455 -03:00 [INF] Mb descargados 244.00
+
+2021-04-14 21:03:17.460 -03:00 [INF] Mb descargados 248.00
+
+2021-04-14 21:03:18.119 -03:00 [INF] Mb descargados 252.00
+
+2021-04-14 21:03:23.292 -03:00 [INF] Mb descargados 256.00
+
+2021-04-14 21:03:32.191 -03:00 [INF] Mb descargados 260.00
+
+2021-04-14 21:03:49.196 -03:00 [INF] Mb descargados 264.00
+
+2021-04-14 21:03:57.328 -03:00 [INF] Mb descargados 268.00
+
+2021-04-14 21:03:57.330 -03:00 [INF] Mb descargados 272.00
+
+2021-04-14 21:03:57.334 -03:00 [INF] Mb descargados 276.00
+
+2021-04-14 21:04:15.029 -03:00 [INF] Mb descargados 280.00
+
+2021-04-14 21:04:18.852 -03:00 [INF] Mb descargados 284.00
+
+2021-04-14 21:04:24.717 -03:00 [INF] Mb descargados 288.00
+
+2021-04-14 21:04:24.764 -03:00 [INF] Mb descargados 292.00
+
+2021-04-14 21:04:25.555 -03:00 [INF] Mb descargados 296.00
+
+2021-04-14 21:04:47.437 -03:00 [INF] Mb descargados 300.00
+
+2021-04-14 21:04:48.848 -03:00 [INF] Mb descargados 304.00
+
+2021-04-14 21:04:55.179 -03:00 [INF] Mb descargados 308.00
+
+2021-04-14 21:05:02.362 -03:00 [INF] Mb descargados 312.00
+
+2021-04-14 21:05:02.364 -03:00 [INF] Mb descargados 316.00
+
+2021-04-14 21:05:20.935 -03:00 [INF] Mb descargados 320.00
+
+2021-04-14 21:05:20.937 -03:00 [INF] Mb descargados 324.00
+
+2021-04-14 21:05:20.939 -03:00 [INF] Mb descargados 328.00
+
+2021-04-14 21:05:30.675 -03:00 [INF] Mb descargados 332.00
+
+2021-04-14 21:05:33.155 -03:00 [INF] Mb descargados 336.00
+
+2021-04-14 21:05:54.577 -03:00 [INF] Mb descargados 340.00
+
+2021-04-14 21:05:54.582 -03:00 [INF] Mb descargados 348.00
+
+2021-04-14 21:05:54.580 -03:00 [INF] Mb descargados 344.00
+
+2021-04-14 21:05:58.492 -03:00 [INF] Mb descargados 352.00
+
+2021-04-14 21:06:03.441 -03:00 [INF] Mb descargados 356.00
+
+2021-04-14 21:06:18.094 -03:00 [INF] Mb descargados 360.00
+
+2021-04-14 21:06:23.380 -03:00 [INF] Mb descargados 364.00
+
+2021-04-14 21:06:27.926 -03:00 [INF] Mb descargados 368.00
+
+2021-04-14 21:06:32.092 -03:00 [INF] Mb descargados 372.00
+
+2021-04-14 21:06:33.373 -03:00 [INF] Mb descargados 376.00
+
+2021-04-14 21:06:55.870 -03:00 [INF] Mb descargados 380.00
+
+2021-04-14 21:06:59.304 -03:00 [INF] Mb descargados 384.00
+
+2021-04-14 21:07:31.600 -03:00 [INF] Mb descargados 388.00
+
+2021-04-14 21:07:31.603 -03:00 [INF] Mb descargados 392.00
+
+2021-04-14 21:07:31.609 -03:00 [INF] Mb descargados 400.00
+
+2021-04-14 21:07:31.606 -03:00 [INF] Mb descargados 396.00
+
+2021-04-14 21:07:34.927 -03:00 [INF] Mb descargados 404.00
+
+2021-04-14 21:07:49.209 -03:00 [INF] Mb descargados 408.00
+
+2021-04-14 21:07:49.213 -03:00 [INF] Mb descargados 416.00
+
+2021-04-14 21:07:49.211 -03:00 [INF] Mb descargados 412.00
+
+2021-04-14 21:08:07.400 -03:00 [INF] Mb descargados 420.00
+
+2021-04-14 21:08:28.967 -03:00 [INF] Mb descargados 424.00
+
+2021-04-14 21:08:28.969 -03:00 [INF] Mb descargados 428.00
+
+2021-04-14 21:08:36.817 -03:00 [INF] Mb descargados 432.00
+
+2021-04-14 21:08:36.819 -03:00 [INF] Mb descargados 436.00
+
+2021-04-14 21:08:36.821 -03:00 [INF] Mb descargados 440.00
+
+2021-04-14 21:08:44.279 -03:00 [INF] Mb descargados 444.00
+
+2021-04-14 21:08:51.592 -03:00 [INF] Mb descargados 448.00
+
+2021-04-14 21:08:57.316 -03:00 [INF] Mb descargados 452.00
+
+2021-04-14 21:09:11.457 -03:00 [INF] Mb descargados 456.00
+
+2021-04-14 21:09:16.894 -03:00 [INF] Mb descargados 460.00
+
+2021-04-14 21:09:18.552 -03:00 [INF] Mb descargados 464.00
+
+2021-04-14 21:09:26.777 -03:00 [INF] Mb descargados 468.00
+
+2021-04-14 21:09:33.003 -03:00 [INF] Mb descargados 472.00
+
+2021-04-14 21:09:50.847 -03:00 [INF] Mb descargados 476.00
+
+2021-04-14 21:09:55.358 -03:00 [INF] Mb descargados 480.00
+
+2021-04-14 21:09:55.359 -03:00 [INF] Mb descargados 484.00
+
+2021-04-14 21:10:01.291 -03:00 [INF] Mb descargados 488.00
+
+2021-04-14 21:10:13.683 -03:00 [INF] Mb descargados 492.00
+
+2021-04-14 21:10:26.549 -03:00 [INF] Mb descargados 496.00
+
+2021-04-14 21:10:31.452 -03:00 [INF] Mb descargados 500.00
+
+2021-04-14 21:10:32.900 -03:00 [INF] Mb descargados 504.00
+
+2021-04-14 21:10:37.807 -03:00 [INF] Mb descargados 508.00
+
+2021-04-14 21:10:49.094 -03:00 [INF] Mb descargados 512.00
+
+2021-04-14 21:11:10.838 -03:00 [INF] Mb descargados 516.00
+
+2021-04-14 21:11:11.359 -03:00 [INF] Mb descargados 520.00
+
+2021-04-14 21:11:15.036 -03:00 [INF] Mb descargados 524.00
+
+2021-04-14 21:11:17.371 -03:00 [INF] Mb descargados 528.00
+
+2021-04-14 21:11:29.259 -03:00 [INF] Mb descargados 532.00
+
+2021-04-14 21:15:30.329 -03:00 [ERR] 
+La transferencia fue cancelada: Haciendo retry porque han pasado: 241 segundos sin transferencia
+2021-04-14 21:15:30.399 -03:00 [INF] Mb descargados 532.00
+
+2021-04-14 21:15:33.345 -03:00 [INF] Mb descargados 532.00
+
+2021-04-14 21:16:38.693 -03:00 [INF] Mb descargados 536.00
+
+2021-04-14 21:16:38.696 -03:00 [INF] Mb descargados 540.00
+
+2021-04-14 21:16:38.698 -03:00 [INF] Mb descargados 544.00
+
+2021-04-14 21:16:48.856 -03:00 [INF] Mb descargados 548.00
+
+2021-04-14 21:16:48.857 -03:00 [INF] Mb descargados 552.00
+
+2021-04-14 21:17:15.836 -03:00 [INF] Mb descargados 556.00
+
+2021-04-14 21:17:15.838 -03:00 [INF] Mb descargados 560.00
+
+2021-04-14 21:17:22.710 -03:00 [INF] Mb descargados 564.00
+
+2021-04-14 21:17:34.688 -03:00 [INF] Mb descargados 568.00
+
+2021-04-14 21:17:42.475 -03:00 [INF] Mb descargados 572.00
+
+2021-04-14 21:17:50.249 -03:00 [INF] Mb descargados 576.00
+
+2021-04-14 21:18:02.765 -03:00 [INF] Mb descargados 580.00
+
+2021-04-14 21:18:02.767 -03:00 [INF] Mb descargados 584.00
+
+2021-04-14 21:18:24.953 -03:00 [INF] Mb descargados 588.00
+
+2021-04-14 21:18:30.428 -03:00 [INF] Mb descargados 592.00
+
+2021-04-14 21:18:35.314 -03:00 [INF] Mb descargados 596.00
+
+2021-04-14 21:18:45.589 -03:00 [INF] Mb descargados 600.00
+
+2021-04-14 21:18:51.720 -03:00 [INF] Mb descargados 604.00
+
+2021-04-14 21:19:11.655 -03:00 [INF] Mb descargados 608.00
+
+2021-04-14 21:19:20.761 -03:00 [INF] Mb descargados 612.00
+
+2021-04-14 21:19:22.929 -03:00 [INF] Mb descargados 616.00
+
+2021-04-14 21:19:31.622 -03:00 [INF] Mb descargados 620.00
+
+2021-04-14 21:19:36.596 -03:00 [INF] Mb descargados 624.00
+
+2021-04-14 21:19:55.376 -03:00 [INF] Mb descargados 628.00
+
+2021-04-14 21:20:14.909 -03:00 [INF] Mb descargados 632.00
+
+2021-04-14 21:20:14.914 -03:00 [INF] Mb descargados 636.00
+
+2021-04-14 21:20:14.916 -03:00 [INF] Mb descargados 637.00
+
+2021-04-14 21:20:14.918 -03:00 [INF] Mb descargados 637.00
+
+2021-04-14 21:20:14.921 -03:00 [INF] 
+ *******Operacion de transferencia completada con exito 1875.7344138 segundos ******
+2021-04-14 21:20:55.152 -03:00 [INF] El largo del archivo es: 637 mb
+2021-04-14 21:20:55.177 -03:00 [INF] El tiempo en seg tomado es: : 1915 segundos
+2021-04-14 21:20:55.179 -03:00 [INF] El tiempo en min tomado es: : 31 minutos
+2021-04-14 21:20:55.189 -03:00 [INF] Comenzando a copiar el archivo a memoria
+2021-04-14 21:24:12.549 -03:00 [INF] El tiempo tomado en importar el CSV en memoria es:  3 minutos
+2021-04-14 21:24:12.600 -03:00 [INF] Comenzando a copiar el archivo a la BD
+2021-04-14 21:30:47.734 -03:00 [INF] Fin de copiado del archivo a la BD!
+2021-04-14 21:30:47.763 -03:00 [INF] El tiempo tomado en importar el CSV en seg es:  395 segundos
+2021-04-14 21:30:47.778 -03:00 [INF] El tiempo tomado en importar el CSV en min es:  6 minutos

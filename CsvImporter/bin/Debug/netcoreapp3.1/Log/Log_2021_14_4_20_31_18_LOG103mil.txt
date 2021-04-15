@@ -1,0 +1,18 @@
+2021-04-14 20:31:18.398 -03:00 [INF] /////////// Ejecutando el script de BD ///////////
+2021-04-14 20:31:19.703 -03:00 [INF] Script ejecutado correctamente en la BD ! 
+2021-04-14 20:31:19.790 -03:00 [INF] Comenzando descarga...
+2021-04-14 20:32:02.641 -03:00 [INF] Mb descargados 3.00
+
+2021-04-14 20:32:02.651 -03:00 [INF] Mb descargados 3.00
+
+2021-04-14 20:32:02.654 -03:00 [INF] 
+ *******Operacion de transferencia completada con exito 42.8609673 segundos ******
+2021-04-14 20:32:02.720 -03:00 [INF] El largo del archivo es: 3 mb
+2021-04-14 20:32:02.721 -03:00 [INF] El tiempo en seg tomado es: : 42 segundos
+2021-04-14 20:32:02.724 -03:00 [INF] El tiempo en min tomado es: : 0 minutos
+2021-04-14 20:32:02.725 -03:00 [INF] Comenzando a copiar el archivo a memoria
+2021-04-14 20:32:02.977 -03:00 [INF] El tiempo tomado en importar el CSV en memoria es:  0 minutos
+2021-04-14 20:32:02.980 -03:00 [INF] Comenzando a copiar el archivo a la BD
+2021-04-14 20:32:06.073 -03:00 [INF] Fin de copiado del archivo a la BD!
+2021-04-14 20:32:06.076 -03:00 [INF] El tiempo tomado en importar el CSV en seg es:  3 segundos
+2021-04-14 20:32:06.078 -03:00 [INF] El tiempo tomado en importar el CSV en min es:  0 minutos
