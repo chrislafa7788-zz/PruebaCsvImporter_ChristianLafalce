@@ -18,8 +18,8 @@ _Al ejecutar el programa el mismo posee una serie de logs para ir guiando al usu
 
 ## Despliegue 📦
 
-_Al momento de descargar el archivo el usuario puede precionar la tecla E o C para cancelar y producir un retry de la descarga. Si el programa detecta que no se ha descargado ningun tramo del archivo este realiza un retry automatico, Este chequeo es realizado cada 4 minutos de inactividad de descarga
-Al finalizar la insercion del archivo en la BD se crea un log con la fecha del dia y el contenido de los eventos realizados por el sistema._
+_Al momento de descargar el archivo el usuario puede precionar la tecla E o C para cancelar y producir un retry de la descarga. Si el programa detecta que no se ha descargado ningun tramo del archivo este realiza un retry automatico, Este chequeo es realizado cada 4 minutos de inactividad de descarga._
+_Al finalizar la insercion del archivo en la BD se crea un log en la carpeta Log con la fecha del dia y el contenido de los eventos mas importantes realizados por el sistema._
 
 
 ## Construido con 🛠️
