@@ -4,8 +4,8 @@ _Bienvenidos a CSVIMPORTER ! By Christian Lafalce_
 
 ## Comenzando 🚀
 
-_Para comenzar por favor dirigirse al visual studio, seleccionar la opcion clone repository y añadir la siguiente URL  https://github.com/chrislafa7788/PruebaCsvImporter_ChristianLafalce.git 
-Sino tambien se puede descargar la solucion a mano ingresando al link y descargando el proyecto _
+Para comenzar por favor dirigirse al visual studio, seleccionar la opcion clone repository y añadir la siguiente URL  https://github.com/chrislafa7788/PruebaCsvImporter_ChristianLafalce.git 
+Sino tambien se puede descargar la solucion a mano ingresando al link y descargando el proyecto 
 
 ## Ejecutando el programa ⚙️
 
