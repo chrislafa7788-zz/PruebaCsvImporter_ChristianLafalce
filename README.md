@@ -9,7 +9,7 @@ Sino tambien se puede descargar la solucion a mano ingresando al link y descarga
 
 ## Ejecutando el programa ⚙️
 
-_Luego de ejecutar el programa, Como primer paso se ejecuta el script de BD. El programa toma del appsettings.json el URL del archivo a descargar. Lo descarga y luego comienza la inserción _
+Luego de ejecutar el programa, Como primer paso se ejecuta el script de BD. El programa toma del appsettings.json el URL del archivo a descargar. Lo descarga y luego comienza la inserción 
 _El proyecto posee un archvivo appsettings.json en el cual se podran ubicar cuantas URL se deseen, es mas yo mismo cargue algunas para realizar algunas pruebas!_
 _Alli tambien encontraras el connection string para conectarse a la BD local._
 _En la carpeta Script se encuentra el archivo .sql el cual es ejecutado en la BD._
