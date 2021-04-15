@@ -48,10 +48,10 @@ namespace CsvImporter
             //test
            
             //var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_1M"]));
-            var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_test_5ok_4repetidos"]));
+            //var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_test_5ok_4repetidos"]));
             //var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_stock103mil"]));
             //var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_Stock3M"]));
-            //var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_Stock"]));
+            var cloudBlockBlob = new CloudBlockBlob(new Uri(Configuration.GetSection("URLS_ToGetTheInfo")["blob_web_Stock"]));
 
 
 
