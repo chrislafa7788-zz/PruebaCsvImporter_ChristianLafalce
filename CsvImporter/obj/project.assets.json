@@ -5713,23 +5713,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\cjlafal\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Christian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjlafal\\source\\AcmeCorp_Project\\CsvImporter\\CsvImporter\\CsvImporter.csproj",
+      "projectUniqueName": "C:\\Users\\Christian\\Source\\Repos\\PruebaCsvImporter_ChristianLafalce\\CsvImporter\\CsvImporter.csproj",
       "projectName": "CsvImporter",
-      "projectPath": "C:\\Users\\cjlafal\\source\\AcmeCorp_Project\\CsvImporter\\CsvImporter\\CsvImporter.csproj",
-      "packagesPath": "C:\\Users\\cjlafal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjlafal\\source\\AcmeCorp_Project\\CsvImporter\\CsvImporter\\obj\\",
+      "projectPath": "C:\\Users\\Christian\\Source\\Repos\\PruebaCsvImporter_ChristianLafalce\\CsvImporter\\CsvImporter.csproj",
+      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christian\\Source\\Repos\\PruebaCsvImporter_ChristianLafalce\\CsvImporter\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\cjlafal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5741,6 +5737,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5752,6 +5749,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "FastMember": {
             "target": "Package",
@@ -5805,14 +5803,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

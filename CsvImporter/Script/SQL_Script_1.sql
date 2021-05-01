@@ -1,15 +1,15 @@
 ﻿
-DROP SCHEMA  IF EXISTS  AcmeCorpDB  ;
+DROP SCHEMA  IF EXISTS  master  ;
 GO
-CREATE SCHEMA AcmeCorpDB  ;
-GO
-
-IF EXISTS(SELECT COUNT(*)
-          FROM   AcmeCorpDB.dbo.Stock)
-  DROP TABLE AcmeCorpDB.dbo.Stock
+CREATE SCHEMA master  ;
 GO
 
-CREATE TABLE AcmeCorpDB.dbo.Stock
+
+IF OBJECT_ID('master.dbo.Stock', 'U') IS NOT NULL 
+  DROP TABLE master.dbo.Stock; 
+GO
+
+CREATE TABLE master.dbo.Stock
 	(
 	PointOfSale nvarchar(50) NULL,
 	Product nvarchar(50) NOT NULL,
@@ -17,7 +17,7 @@ CREATE TABLE AcmeCorpDB.dbo.Stock
 	Stock int NOT NULL
 	)  ON [PRIMARY]
 GO
-USE [AcmeCorpDB]
+USE [master]
 GO
 /****** Object:  StoredProcedure [dbo].[insertStock]    Script Date: 4/9/2021 11:11:24 PM ******/
 SET ANSI_NULLS ON
